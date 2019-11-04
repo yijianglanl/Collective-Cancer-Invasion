@@ -1,0 +1,5 @@
+<Simulation version="4.1.0">
+   <XMLScript Type="XMLScript">Simulation/CollectiveCancerInvasionVI.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/CollectiveCancerInvasionVI.py</PythonScript>
+   <Resource Type="Python">Simulation/CollectiveCancerInvasionVISteppables.py</Resource>
+</Simulation>
